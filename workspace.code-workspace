@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../../../../../home/monad/anaconda3/envs/deep-speech"
+		}
+	],
+	"settings": {
+		"jupyter.jupyterServerType": "local"
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-toolsai.jupyter",
+			"ms-toolsai.jupyter-keymap"
+		]
+	}
+}

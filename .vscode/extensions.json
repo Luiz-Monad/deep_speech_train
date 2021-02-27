@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "magicstack.magicpython",
+        "eamodio.gitlens",
+        "donjayamanne.githistory",
+        "coenraads.bracket-pair-colorizer-2",
+        "aaron-bond.better-comments",
+        "ryu1kn.partial-diff"
+    ]
+}

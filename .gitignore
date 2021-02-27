@@ -1,0 +1,6 @@
+*.iml
+.gradle
+sox-build/
+__pycache__
+sox.exe
+sox
