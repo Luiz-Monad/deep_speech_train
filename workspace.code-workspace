@@ -1,10 +1,16 @@
 {
 	"folders": [
 		{
-			"path": "."
+			"name": "deep_speech_transcribe",
+			"path": "../deep_speech_transcribe"
 		},
 		{
-			"path": "../../../../../../../../home/monad/anaconda3/envs/deep-speech"
+			"name": "deep_speech_tool",
+			"path": "../deep_speech_tool"
+		},
+		{
+			"name": "deep_speech_train",
+			"path": "../deep_speech_train"
 		}
 	],
 	"settings": {
