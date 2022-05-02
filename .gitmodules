@@ -1,0 +1,6 @@
+[submodule "pysox"]
+	path = pysox
+	url = https://github.com/Luiz-Monad/pysox
+[submodule "sox-code"]
+	path = sox-code
+	url = https://github.com/Luiz-Monad/sox
