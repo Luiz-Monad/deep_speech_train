@@ -1,3 +1,9 @@
 {
-
+    "python.pythonPath": "C:\\tools\\Anaconda3\\envs\\deep_speech\\python.exe",
+    "terminal.integrated.shell.windows": "C:\\Program Files\\PowerShell\\7\\pwsh.exe",
+    "terminal.integrated.shellArgs.windows": [
+      "-ExecutionPolicy", "Bypass",
+      "-NoLogo", "-NoExit",
+      "-Command", "C:/tools/Anaconda3/shell/condabin/conda-hook.ps1"
+    ],
 }

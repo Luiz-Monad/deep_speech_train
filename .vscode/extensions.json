@@ -1,5 +1,6 @@
 {
     "recommendations": [
+        "ms-python.python",
         "magicstack.magicpython",
         "eamodio.gitlens",
         "donjayamanne.githistory",
